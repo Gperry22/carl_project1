@@ -1,1 +1,1 @@
-console.log("Attached")
+var a = 10;
